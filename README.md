@@ -1,5 +1,5 @@
 👋 Hi, I’m @TheTrixxE.
-(⌐■_■) Still trying to learn how to beat life.
+Still learning how to beat life.
 
 <!---
 TheTrixxE/TheTrixxE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
